@@ -1,0 +1,427 @@
+{
+  "address": {
+    "1713289093913": {
+      "address": "Chuong Duong, Hoan Kiem, Ha Noi",
+      "id": 1713289093913,
+      "name": "Nguyen Dang Tin",
+      "phone": "0935865986",
+      "selected": false
+    },
+    "1713409645115": {
+      "address": "Trung Kinh, Cau Giay, Ha Noi",
+      "id": 1713409645115,
+      "name": "Nguyen Thu Thuy",
+      "phone": "0986868686",
+      "selected": false
+    },
+    "1713440673863": {
+      "address": "Nguyen Trai, Thanh Xuan, Ha Noi",
+      "id": 1713440673863,
+      "name": "Tran Thi Van",
+      "phone": "0856865986",
+      "selected": false
+    }
+  },
+  "category": [
+    null,
+    {
+      "id": 1,
+      "name": "Cà phê"
+    },
+    {
+      "id": 2,
+      "name": "Trà sữa"
+    },
+    {
+      "id": 3,
+      "name": "Sinh tố"
+    }
+  ],
+  "drink": [
+    null,
+    {
+      "banner": "https://images.wallpaperscraft.com/image/single/coffee_cappuccino_cup_875722_1024x600.jpg",
+      "category_id": 1,
+      "description": "Đá lạnh + sữa tươi + kem ngọt",
+      "featured": true,
+      "id": 1,
+      "image": "https://images.wallpaperscraft.com/image/single/coffee_cappuccino_cup_875722_320x240.jpg",
+      "name": "Coffee Cappuccino",
+      "price": 25,
+      "rating": {
+        "289979111": {
+          "rate": 2.5,
+          "review": "Nice"
+        },
+        "289979574": {
+          "rate": 3,
+          "review": "Bad"
+        },
+        "1215540586": {
+          "rate": 4.5,
+          "review": "Well"
+        }
+      },
+      "sale": 10
+    },
+    {
+      "banner": "https://images.wallpaperscraft.com/image/single/cup_coffee_marshmallow_197080_1024x600.jpg",
+      "category_id": 1,
+      "description": "Đá lạnh + Đường",
+      "id": 2,
+      "image": "https://images.wallpaperscraft.com/image/single/cup_coffee_marshmallow_197080_320x240.jpg",
+      "name": "Coffee Marshmallow",
+      "price": 30,
+      "rating": {
+        "399893507": {
+          "rate": 5,
+          "review": "Rat ngon !!!"
+        }
+      },
+      "sale": 0
+    },
+    {
+      "banner": "https://images.wallpaperscraft.com/image/single/coffee_cup_chair_145407_1024x600.jpg",
+      "category_id": 1,
+      "description": "Không đường + sữa đặc",
+      "id": 3,
+      "image": "https://images.wallpaperscraft.com/image/single/coffee_cup_chair_145407_320x240.jpg",
+      "name": "Coffee Chair",
+      "price": 50,
+      "sale": 10
+    },
+    {
+      "banner": "https://images.wallpaperscraft.com/image/single/cup_coffee_red_144990_1024x600.jpg",
+      "category_id": 1,
+      "description": "Đường + Đá lạnh + sữa tươi",
+      "featured": true,
+      "id": 4,
+      "image": "https://images.wallpaperscraft.com/image/single/cup_coffee_red_144990_320x240.jpg",
+      "name": "Coffee Black",
+      "price": 40,
+      "sale": 0
+    },
+    {
+      "banner": "https://images.wallpaperscraft.com/image/single/cup_coffee_leaves_194653_1024x600.jpg",
+      "category_id": 1,
+      "description": "Không đường + phủ kem ngọt",
+      "featured": true,
+      "id": 5,
+      "image": "https://images.wallpaperscraft.com/image/single/cup_coffee_leaves_194653_320x240.jpg",
+      "name": "Coffee Leaves",
+      "price": 80,
+      "rating": {
+        "289979574": {
+          "rate": 2.5,
+          "review": "Good"
+        }
+      },
+      "sale": 20
+    },
+    {
+      "banner": "https://images.wallpaperscraft.com/image/single/coffee_drink_glasses_174826_1024x600.jpg",
+      "category_id": 2,
+      "description": "Đường + trân châu đường đen",
+      "id": 6,
+      "image": "https://images.wallpaperscraft.com/image/single/coffee_drink_glasses_174826_320x240.jpg",
+      "name": "Trà sữa đường đen",
+      "price": 50,
+      "rating": {
+        "1215540586": {
+          "rate": 3,
+          "review": "Good"
+        }
+      },
+      "sale": 0
+    },
+    {
+      "banner": "https://images.wallpaperscraft.com/image/single/cocktail_orange_slice_346801_1024x600.jpg",
+      "category_id": 2,
+      "description": "Đá lạnh + đường + thạch",
+      "id": 7,
+      "image": "https://images.wallpaperscraft.com/image/single/cocktail_orange_slice_346801_320x240.jpg",
+      "name": "Hồng trà",
+      "price": 60,
+      "rating": {
+        "1215540586": {
+          "rate": 5,
+          "review": ""
+        }
+      },
+      "sale": 20
+    },
+    {
+      "banner": "https://images.wallpaperscraft.com/image/single/can_drink_cocktail_238106_1024x600.jpg",
+      "category_id": 2,
+      "description": "Đường + sữa tươi + kem ngọt",
+      "id": 8,
+      "image": "https://images.wallpaperscraft.com/image/single/can_drink_cocktail_238106_320x240.jpg",
+      "name": "Trà sữa nướng",
+      "price": 70,
+      "rating": {
+        "1215540586": {
+          "rate": 5,
+          "review": ""
+        }
+      },
+      "sale": 5
+    },
+    {
+      "banner": "https://images.wallpaperscraft.com/image/single/glasses_drinks_orange_305675_1024x600.jpg",
+      "category_id": 3,
+      "description": "Đường + kem ngọt + đá lạnh",
+      "featured": true,
+      "id": 9,
+      "image": "https://images.wallpaperscraft.com/image/single/glasses_drinks_orange_305675_320x240.jpg",
+      "name": "Dâu Tây Bạc Hà",
+      "price": 42,
+      "sale": 10
+    },
+    {
+      "banner": "https://images.wallpaperscraft.com/image/single/toasts_bread_honey_20740_1024x600.jpg",
+      "category_id": 3,
+      "description": "Đường + mật ong + đá lạnh",
+      "id": 10,
+      "image": "https://images.wallpaperscraft.com/image/single/toasts_bread_honey_20740_320x240.jpg",
+      "name": "Sinh tố cam sả",
+      "price": 48,
+      "sale": 0
+    }
+  ],
+  "feedback": {
+    "1712765259457": {
+      "comment": "App hoạt động rất tốt !!!",
+      "email": "test@gmail.com",
+      "name": "Nguyen Dang Tin",
+      "phone": "0986898686"
+    },
+    "1712901062860": {
+      "comment": "Giao hang rat nhanh !!!",
+      "email": "test@gmail.com",
+      "name": "Nguyen Thu Thuy",
+      "phone": "0986098689"
+    }
+  },
+  "order": {
+    "1713289349868": {
+      "address": {
+        "address": "Chuong Duong, Hoan Kiem, Ha Noi",
+        "id": 1713289093913,
+        "name": "Nguyen Dang Tin",
+        "phone": "0935865986",
+        "selected": true
+      },
+      "dateTime": "1713289349869",
+      "drinks": [
+        {
+          "count": 1,
+          "image": "https://images.wallpaperscraft.com/image/single/cup_coffee_red_144990_320x240.jpg",
+          "name": "Coffee Black",
+          "option": "Đồ uống Đá, Kích thước Nhỏ, Bình thường Đường, Bình thường Đá",
+          "price": 40
+        },
+        {
+          "count": 1,
+          "image": "https://images.wallpaperscraft.com/image/single/cup_coffee_leaves_194653_320x240.jpg",
+          "name": "Coffee Leaves",
+          "option": "Đồ uống Đá, Kích thước Nhỏ, Bình thường Đường, Bình thường Đá",
+          "price": 64
+        }
+      ],
+      "id": 1713289349868,
+      "listDrinksName": "Coffee Black, Coffee Leaves",
+      "paymentMethod": "Thanh toán tiền mặt",
+      "price": 104,
+      "rate": 5,
+      "review": "Giao hang rat nhanh",
+      "status": 4,
+      "total": 94,
+      "userEmail": "test@gmail.com",
+      "voucher": 10
+    },
+    "1713409706397": {
+      "address": {
+        "address": "Trung Kinh, Cau Giay, Ha Noi",
+        "id": 1713409645115,
+        "name": "Nguyen Thu Thuy",
+        "phone": "0986868686",
+        "selected": false
+      },
+      "dateTime": "1713409706398",
+      "drinks": [
+        {
+          "count": 1,
+          "image": "https://images.wallpaperscraft.com/image/single/cup_coffee_marshmallow_197080_320x240.jpg",
+          "name": "Coffee Marshmallow",
+          "option": "Đồ uống Đá, Kích thước Nhỏ, Bình thường Đường, Bình thường Đá",
+          "price": 30
+        }
+      ],
+      "id": 1713409706397,
+      "listDrinksName": "Coffee Marshmallow",
+      "paymentMethod": "ZaloPay",
+      "price": 30,
+      "rate": 0,
+      "status": 1,
+      "total": 27,
+      "userEmail": "test@gmail.com",
+      "voucher": 3
+    },
+    "1713440690391": {
+      "address": {
+        "address": "Chuong Duong, Hoan Kiem, Ha Noi",
+        "id": 1713289093913,
+        "name": "Nguyen Dang Tin",
+        "phone": "0935865986",
+        "selected": false
+      },
+      "dateTime": "1713440690393",
+      "drinks": [
+        {
+          "count": 1,
+          "image": "https://images.wallpaperscraft.com/image/single/cup_coffee_red_144990_320x240.jpg",
+          "name": "Coffee Black",
+          "option": "Đồ uống Đá, Kích thước Nhỏ, Bình thường Đường, Bình thường Đá",
+          "price": 40
+        }
+      ],
+      "id": 1713440690391,
+      "listDrinksName": "Coffee Black",
+      "paymentMethod": "Chuyển khoản ngân hàng",
+      "price": 40,
+      "rate": 0,
+      "status": 1,
+      "total": 36,
+      "userEmail": "test@gmail.com",
+      "voucher": 4
+    },
+    "1713523163995": {
+      "address": {
+        "address": "Trung Kinh, Cau Giay, Ha Noi",
+        "id": 1713409645115,
+        "name": "Nguyen Thu Thuy",
+        "phone": "0986868686",
+        "selected": false
+      },
+      "dateTime": "1713523164013",
+      "drinks": [
+        {
+          "count": 1,
+          "image": "https://images.wallpaperscraft.com/image/single/cup_coffee_leaves_194653_320x240.jpg",
+          "name": "Coffee Leaves",
+          "option": "Đồ uống Đá, Kích thước Nhỏ, Bình thường Đường, Bình thường Đá",
+          "price": 64
+        }
+      ],
+      "id": 1713523163995,
+      "listDrinksName": "Coffee Leaves",
+      "paymentMethod": "ZaloPay",
+      "price": 64,
+      "rate": 5,
+      "review": "Giao hang nhanh",
+      "status": 4,
+      "total": 58,
+      "userEmail": "test@gmail.com",
+      "voucher": 6
+    },
+    "1713577280022": {
+      "address": {
+        "address": "Trung Kinh, Cau Giay, Ha Noi",
+        "id": 1713409645115,
+        "name": "Nguyen Thu Thuy",
+        "phone": "0986868686",
+        "selected": false
+      },
+      "dateTime": "1713577280023",
+      "drinks": [
+        {
+          "count": 2,
+          "image": "https://images.wallpaperscraft.com/image/single/cup_coffee_marshmallow_197080_320x240.jpg",
+          "name": "Coffee Marshmallow",
+          "option": "Đồ uống Đá, Kích thước Nhỏ, Giảm bớt Đường, Bình thường Đá",
+          "price": 30
+        },
+        {
+          "count": 2,
+          "image": "https://images.wallpaperscraft.com/image/single/cup_coffee_red_144990_320x240.jpg",
+          "name": "Coffee Black",
+          "option": "Đồ uống Đá, Kích thước Nhỏ, Bình thường Đường, Bình thường Đá",
+          "price": 40
+        }
+      ],
+      "id": 1713577280022,
+      "listDrinksName": "Coffee Marshmallow, Coffee Black",
+      "paymentMethod": "Credit or debit card",
+      "price": 140,
+      "rate": 0,
+      "status": 1,
+      "total": 126,
+      "userEmail": "test@gmail.com",
+      "voucher": 14
+    }
+  },
+  "payment": [
+    null,
+    {
+      "description": "(Thanh toán khi nhận hàng)",
+      "id": 1,
+      "name": "Thanh toán tiền mặt"
+    },
+    {
+      "description": "(Thẻ Visa hoặc Mastercard)",
+      "id": 2,
+      "name": "Credit or debit card"
+    },
+    {
+      "description": "(Tự động xác nhận)",
+      "id": 3,
+      "name": "Chuyển khoản ngân hàng"
+    },
+    {
+      "description": "(Tự động xác nhận)",
+      "id": 4,
+      "name": "ZaloPay"
+    }
+  ],
+  "topping": [
+    null,
+    {
+      "id": 1,
+      "name": "Trân châu đen",
+      "price": 5
+    },
+    {
+      "id": 2,
+      "name": "Trân châu trắng",
+      "price": 6
+    },
+    {
+      "id": 3,
+      "name": "Dừa khô",
+      "price": 3
+    },
+    {
+      "id": 4,
+      "name": "Thạch 7 màu",
+      "price": 7
+    }
+  ],
+  "voucher": [
+    null,
+    {
+      "discount": 10,
+      "id": 1,
+      "minimum": 0
+    },
+    {
+      "discount": 15,
+      "id": 2,
+      "minimum": 200
+    },
+    {
+      "discount": 30,
+      "id": 3,
+      "minimum": 500
+    }
+  ]
+}
